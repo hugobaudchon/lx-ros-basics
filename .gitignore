@@ -1,6 +1,8 @@
 docs/build
 *pyc
 
+.idea
+
 # documentation artifacts
 html/*
 
